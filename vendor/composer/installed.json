@@ -588,6 +588,94 @@
         "homepage": "https://wordpress.org/plugins/aryo-activity-log/"
     },
     {
+        "name": "wpackagist-plugin/cookie-notice",
+        "version": "1.2.42",
+        "version_normalized": "1.2.42.0",
+        "source": {
+            "type": "svn",
+            "url": "https://plugins.svn.wordpress.org/cookie-notice/",
+            "reference": "tags/1.2.42"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://downloads.wordpress.org/plugin/cookie-notice.1.2.42.zip",
+            "reference": null,
+            "shasum": null
+        },
+        "require": {
+            "composer/installers": "~1.0"
+        },
+        "type": "wordpress-plugin",
+        "installation-source": "dist",
+        "homepage": "https://wordpress.org/plugins/cookie-notice/"
+    },
+    {
+        "name": "wpackagist-plugin/google-analytics-for-wordpress",
+        "version": "7.0.4",
+        "version_normalized": "7.0.4.0",
+        "source": {
+            "type": "svn",
+            "url": "https://plugins.svn.wordpress.org/google-analytics-for-wordpress/",
+            "reference": "tags/7.0.4"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://downloads.wordpress.org/plugin/google-analytics-for-wordpress.7.0.4.zip",
+            "reference": null,
+            "shasum": null
+        },
+        "require": {
+            "composer/installers": "~1.0"
+        },
+        "type": "wordpress-plugin",
+        "installation-source": "dist",
+        "homepage": "https://wordpress.org/plugins/google-analytics-for-wordpress/"
+    },
+    {
+        "name": "wpackagist-plugin/mammoth-docx-converter",
+        "version": "1.8.0",
+        "version_normalized": "1.8.0.0",
+        "source": {
+            "type": "svn",
+            "url": "https://plugins.svn.wordpress.org/mammoth-docx-converter/",
+            "reference": "tags/1.8.0"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://downloads.wordpress.org/plugin/mammoth-docx-converter.1.8.0.zip",
+            "reference": null,
+            "shasum": null
+        },
+        "require": {
+            "composer/installers": "~1.0"
+        },
+        "type": "wordpress-plugin",
+        "installation-source": "dist",
+        "homepage": "https://wordpress.org/plugins/mammoth-docx-converter/"
+    },
+    {
+        "name": "wpackagist-plugin/nextgen-gallery",
+        "version": "2.2.54",
+        "version_normalized": "2.2.54.0",
+        "source": {
+            "type": "svn",
+            "url": "https://plugins.svn.wordpress.org/nextgen-gallery/",
+            "reference": "tags/2.2.54"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://downloads.wordpress.org/plugin/nextgen-gallery.2.2.54.zip",
+            "reference": null,
+            "shasum": null
+        },
+        "require": {
+            "composer/installers": "~1.0"
+        },
+        "type": "wordpress-plugin",
+        "installation-source": "dist",
+        "homepage": "https://wordpress.org/plugins/nextgen-gallery/"
+    },
+    {
         "name": "wpackagist-plugin/query-monitor",
         "version": "2.17.0",
         "version_normalized": "2.17.0.0",
@@ -608,6 +696,50 @@
         "type": "wordpress-plugin",
         "installation-source": "dist",
         "homepage": "https://wordpress.org/plugins/query-monitor/"
+    },
+    {
+        "name": "wpackagist-plugin/remove-category-url",
+        "version": "1.1.2",
+        "version_normalized": "1.1.2.0",
+        "source": {
+            "type": "svn",
+            "url": "https://plugins.svn.wordpress.org/remove-category-url/",
+            "reference": "tags/1.1.2"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://downloads.wordpress.org/plugin/remove-category-url.1.1.2.zip",
+            "reference": null,
+            "shasum": null
+        },
+        "require": {
+            "composer/installers": "~1.0"
+        },
+        "type": "wordpress-plugin",
+        "installation-source": "dist",
+        "homepage": "https://wordpress.org/plugins/remove-category-url/"
+    },
+    {
+        "name": "wpackagist-plugin/tinymce-advanced",
+        "version": "4.6.7",
+        "version_normalized": "4.6.7.0",
+        "source": {
+            "type": "svn",
+            "url": "https://plugins.svn.wordpress.org/tinymce-advanced/",
+            "reference": "tags/4.6.7"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://downloads.wordpress.org/plugin/tinymce-advanced.4.6.7.zip",
+            "reference": null,
+            "shasum": null
+        },
+        "require": {
+            "composer/installers": "~1.0"
+        },
+        "type": "wordpress-plugin",
+        "installation-source": "dist",
+        "homepage": "https://wordpress.org/plugins/tinymce-advanced/"
     },
     {
         "name": "wpackagist-plugin/user-role-editor",
@@ -652,6 +784,28 @@
         "type": "wordpress-plugin",
         "installation-source": "dist",
         "homepage": "https://wordpress.org/plugins/user-switching/"
+    },
+    {
+        "name": "wpackagist-plugin/wordpress-seo",
+        "version": "7.2",
+        "version_normalized": "7.2.0.0",
+        "source": {
+            "type": "svn",
+            "url": "https://plugins.svn.wordpress.org/wordpress-seo/",
+            "reference": "tags/7.2"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://downloads.wordpress.org/plugin/wordpress-seo.7.2.zip",
+            "reference": null,
+            "shasum": null
+        },
+        "require": {
+            "composer/installers": "~1.0"
+        },
+        "type": "wordpress-plugin",
+        "installation-source": "dist",
+        "homepage": "https://wordpress.org/plugins/wordpress-seo/"
     },
     {
         "name": "wpackagist-plugin/wp-crontrol",

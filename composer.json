@@ -15,7 +15,14 @@
     "wpackagist-plugin/wp-crontrol"                        : "^1.5",
     "wpackagist-plugin/user-switching"                     : "^1.0",
     "wpackagist-plugin/query-monitor"                      : "^2.14",
-    "wpackagist-plugin/aryo-activity-log"                  : "^2.3"
+    "wpackagist-plugin/aryo-activity-log"                  : "^2.3",
+    "wpackagist-plugin/cookie-notice": "1.2.42",
+    "wpackagist-plugin/google-analytics-for-wordpress": "7.0.4",
+    "wpackagist-plugin/mammoth-docx-converter": "1.8.0",
+    "wpackagist-plugin/remove-category-url": "1.1.2",
+    "wpackagist-plugin/tinymce-advanced": "4.6.7",
+    "wpackagist-plugin/wordpress-seo": "7.2",
+    "wpackagist-plugin/nextgen-gallery": "2.2.54"
   },
   "require-dev" : {
     "symfony/var-dumper": "^3.3",

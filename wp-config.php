@@ -31,6 +31,11 @@
     /** MySQL hostname */
     define('DB_HOST', 'db');
 
+    define('WP_HOME','http://localhost');
+    define('WP_SITEURL','http://localhost');
+    define('FORCE_SSL_ADMIN', false);
+
+
 define('WP_CONTENT_DIR', __DIR__ . '/wp-content');
 
 /** Database Charset to use in creating database tables. */
@@ -73,7 +78,7 @@ define('AUTOMATIC_UPDATER_DISABLED', true);
  * You can have multiple installations in one database if you give each
  * a unique prefix. Only numbers, letters, and underscores please!
  */
-$table_prefix = 'wp_';
+$table_prefix = 'mod193_';
 
 /**
  * For developers: WordPress debugging mode.
