@@ -8,7 +8,7 @@ Raven_Autoloader::register();
  */
 class ErrorHandler
 {
-    private const PROD_SENTRY_ERROR_ENTRY_POINT = '';
+    private const PROD_SENTRY_ERROR_ENTRY_POINT = SENTRY_URL;
 
     /**
      * @var \Raven_Client

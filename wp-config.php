@@ -18,7 +18,7 @@
  * @package WordPress
  */
     /** The name of the database for WordPress */
-    define('DB_NAME', 'swjudytadeusza');
+        define('DB_NAME', 'swjudytadeusza');
 
     /** MySQL database username */
     define('DB_USER', 'root');
@@ -31,8 +31,8 @@
     /** MySQL hostname */
     define('DB_HOST', 'db');
 
-    define('WP_HOME','http://localhost');
-    define('WP_SITEURL','http://localhost');
+    define('WP_HOME','http://wordpress/');
+    define('WP_SITEURL','http://wordpress/');
     define('FORCE_SSL_ADMIN', false);
 
 
@@ -101,6 +101,8 @@ if (!defined('ABSPATH')) {
 }
 
 /** SENTRY */
+define('SENTRY_URL', '');
+
 require_once __DIR__ . '/ErrorHandler.php';
 ErrorHandler::make();
 
