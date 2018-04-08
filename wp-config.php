@@ -101,6 +101,8 @@ if (!defined('ABSPATH')) {
 }
 
 /** SENTRY */
+define('SENTRY_URL', '');
+
 require_once __DIR__ . '/ErrorHandler.php';
 ErrorHandler::make();
 
